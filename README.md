@@ -1,5 +1,8 @@
 # Sentiment Analysis using 4 different models
 
+## Dependencies
+1. git lfs install (to add large files)
+
 ## Models Used
 1. GPT-3 (Generative Pre-trained Transformer 3)
 2. LSTM (Long Short-Term Memory )
