@@ -2,6 +2,7 @@
 
 ## Dependencies
 1. git lfs install (to add large files)
+2. pip install tensorflow
 
 ## Models Used
 1. GPT-3 (Generative Pre-trained Transformer 3)
