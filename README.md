@@ -16,3 +16,11 @@
 3. Yashvi Uday Shaw
 4. Yashi Nissar
 5. Arun Paul
+
+## Tasks
+- Train Test Split
+- balance the dataset (classification)
+- vectorize the words (word 2 vec)
+- vocabulary size
+- save the word 2 vec to text file
+- play with word embedding models (similairty, pick out(king queen women movie))
