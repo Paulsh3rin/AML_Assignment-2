@@ -41,3 +41,9 @@ This repository contains various machine learning models and their implementatio
    ```
    Open the desired notebook (`BERT_model.ipynb`, `CNN_model.ipynb`, `LSTM.ipynb`, `Voting_classifier_model.ipynb`) and run the cells to train and test the models.
 
+### Contributers 
+1. Sherin Paul
+2. Ritik Patel
+3. Yashvi Shah
+4. Yashi Nisar
+5. Arun Varghese 
